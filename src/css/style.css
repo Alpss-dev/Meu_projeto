@@ -4,3 +4,13 @@ header{
     padding: 10px;
     text-align: center;
 }
+main{
+    background-color: gray;
+}
+body{
+    background-color: gray;
+    margin: 0;
+}
+nav{
+    background-color: black;
+}
